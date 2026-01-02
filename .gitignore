@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.egg-info/
+.eggs/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Training outputs / artifacts
+outputs/
+runs/
+wandb/
+logs/
+
+# Large model artifacts
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+*.engine
+*.ckpt
+
+
