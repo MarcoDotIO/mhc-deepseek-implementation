@@ -123,4 +123,15 @@ python scripts/ollama_compare.py \
 ## License / Attribution
 This is a research implementation inspired by the paper `2512.24880v1.pdf` ([arXiv:2512.24880v1](https://arxiv.org/abs/2512.24880v1)). Dataset used in examples: [`Salesforce/wikitext` (wikitext-2-raw-v1)](https://huggingface.co/datasets/Salesforce/wikitext/tree/main/wikitext-2-raw-v1).
 
+---
 
+## Citation
+
+```bibtex
+@article{xie2025mhc,
+  title={mHC: Manifold-Constrained Hyper-Connections},
+  author={Xie, Zhenda and Wei, Yixuan and Cao, Huanqi and Zhao, Chenggang and Deng, Chengqi and Li, Jiashi and Dai, Damai and Gao, Huazuo and Chang, Jiang and Zhao, Liang and Zhou, Shangyan and Xu, Zhean and Zhang, Zhengyan and Zeng, Wangding and Hu, Shengding and Wang, Yuqing and Yuan, Jingyang and Wang, Lean and Liang, Wenfeng},
+  journal={arXiv preprint arXiv:2512.24880},
+  year={2025}
+}
+```
